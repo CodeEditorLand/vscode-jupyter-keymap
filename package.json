@@ -1,20 +1,10 @@
 {
-  "name": "jupyter-keymap",
-  "displayName": "Jupyter Keymap",
-  "version": "1.2.0",
-  "description": "Jupyter keymaps for notebooks",
-  "bugs": {
-    "url": "https://github.com/Microsoft/vscode-jupyter-keymap/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Microsoft/vscode-jupyter-keymap"
-  },
-  "license": "MIT",
   "author": {
     "name": "Microsoft Corporation"
   },
-  "publisher": "ms-toolsai",
+  "bugs": {
+    "url": "https://github.com/Microsoft/vscode-jupyter-keymap/issues"
+  },
   "contributes": {
     "keybindings": [
       {
@@ -110,9 +100,19 @@
       }
     ]
   },
-  "icon": "icon.png",
+  "description": "Jupyter keymaps for notebooks",
+  "displayName": "Jupyter Keymap",
   "galleryBanner": {
     "color": "#ffffff",
     "theme": "light"
-  }
+  },
+  "icon": "icon.png",
+  "license": "MIT",
+  "name": "jupyter-keymap",
+  "publisher": "ms-toolsai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Microsoft/vscode-jupyter-keymap"
+  },
+  "version": "1.2.0"
 }
