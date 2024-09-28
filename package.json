@@ -1,7 +1,4 @@
 {
-	"name": "jupyter-keymap",
-	"displayName": "Jupyter Keymap",
-	"description": "Jupyter keymaps for notebooks",
 	"contributes": {
 		"keybindings": [
 			{
@@ -97,9 +94,12 @@
 			}
 		]
 	},
-	"icon": "icon.png",
+	"description": "Jupyter keymaps for notebooks",
+	"displayName": "Jupyter Keymap",
 	"galleryBanner": {
 		"color": "#ffffff",
 		"theme": "light"
-	}
+	},
+	"icon": "icon.png",
+	"name": "jupyter-keymap"
 }
