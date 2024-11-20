@@ -1,4 +1,5 @@
 {
+	"description": "Jupyter keymaps for notebooks",
 	"contributes": {
 		"keybindings": [
 			{
@@ -93,6 +94,5 @@
 				"win": "ctrl+alt+enter"
 			}
 		]
-	},
-	"description": "Jupyter keymaps for notebooks"
+	}
 }
